@@ -3,8 +3,8 @@
 ## Objectives
 
 - Practice writing dynamic components
-- Practice jumping into existing code and making the necessary changes
-
+- Practice jumping into existing code and making the necessary changes;
+ 
 ## Introduction
 
 In this lab, you'll write React components and render them dynamically based on
