@@ -6,18 +6,19 @@ class App extends Component {
   
   // Nothing needs to change here! 
   // Make note of what prop we are initially passing to `ColorBox` below!
-  
+  // <ColorBox opacity={1} />  this is passing prop into ColorBox class  
   render() {
     return (
       <div id="app">
           <BlogPost />
           <div id="seperator"></div>
           <div className="wrapper">
-            <ColorBox opacity={1} />
+            <ColorBox opacity={1} /> 
           </div>
       </div>
     )
   }
 }
-
 export default App;
+
+
